@@ -2,7 +2,7 @@
 ![githubBanner](https://github.com/BrendonTheDev/BrendonTheDev/assets/108491991/57ad858b-48bc-4711-a268-5c42d9467164)
 
 
-<h2 align="center">My name is Brendon. Nice to meet you!</h2>
+<h2 align="center">Great to meet you, I'm Brendon!</h2>
 
 I have a strong belief that software is the equivalent of modern-day magic. Does that make programmers wizards? 🧙 I originally pursued a career in Special Education because I wanted to make a positive impact on the lives of my students, but after learning about the possibilities that programming makes possible, I knew that development is the best way for me to change the world. 
 
